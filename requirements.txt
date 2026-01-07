@@ -1,0 +1,11 @@
+gymnasium[atari, accept-rom-license]
+ale-py
+shimmy
+torch
+numpy
+opencv-python
+imageio
+imageio-ffmpeg
+networkx
+matplotlib
+stable_baselines3[extra]
